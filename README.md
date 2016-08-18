@@ -34,9 +34,9 @@
 - [Monitors](#) - ???
 
 #### Lounge Space
-- [Couch](http://sc.theexpogroup.com/osc/NEUROSCIENCE2016/Furniture_and_Accessories.pdf) - HS008, 72L 48D 28H ($1407.55)
-- [Loveseat](http://sc.theexpogroup.com/osc/NEUROSCIENCE2016/Furniture_and_Accessories.pdf) - HEA08, 48L 24D 28H ($535.85)
-- [Ottoman](http://sc.theexpogroup.com/osc/NEUROSCIENCE2016/Furniture_and_Accessories.pdf) - OTH, 17L 17D 18H ($101.89 x 2)
+- [Couch](http://sc.theexpogroup.com/osc/NEUROSCIENCE2016/Custom_Furniture.pdf) - HS008, 72L 48D 28H ($1407.55)
+- [Loveseat](http://sc.theexpogroup.com/osc/NEUROSCIENCE2016/Custom_Furniture.pdf) - HEA08, 48L 24D 28H ($535.85)
+- [Ottoman](http://sc.theexpogroup.com/osc/NEUROSCIENCE2016/Custom_Furniture.pdf) - OTH, 17L 17D 18H ($101.89 x 2)
 
 #### "Selling" Space
 - [Chairs](http://sc.theexpogroup.com/osc/NEUROSCIENCE2016/Custom_Furniture.pdf) - NPLCHP, 36L 30D 28H ($537.74 x 2)

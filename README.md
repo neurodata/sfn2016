@@ -46,9 +46,18 @@
 
 ### Booth Content
 
-#### Rotating power points:
-- 3-4 slides on each of EM, Clarity
-- 3-4 slides on each of AT and MRI
+#### Rotating power points, featuring 3-4 slides for each of the following:
+- Kasthuri11 overview w/ pub + defining features 
+- Bock11 overview w/ pub + defining features 
+- xbrain overview w/ pub + defining features 
+- CLARITY overview + defining features
+- harris15 overview w/ pub + defining features 
+- AT / synaptome overview 
+- MRI overview (@greg to fill in) 
+- ndstore (highlight cloud storage capability)
+- ndviz (highlight... things)
+- scientific containers 
+- ???
 
 ##### Cloud in a Box
 - our big appeal to neuroscientists is the following: we build tools that make processing and storing your data in the cloud easy. The NUC plan worked ok last time, but if we're going to do more hacking we should step up our locally available resources.

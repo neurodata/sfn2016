@@ -24,13 +24,14 @@
 
 - [Carpet](http://sc.theexpogroup.com/osc/NEUROSCIENCE2016/Carpet.pdf) - Blue Jay ($502.13)
 - [Plants](http://sc.theexpogroup.com/osc/NEUROSCIENCE2016/Floral.pdf) - 3' x2,  5' x2 ($68.50 x 2 + $94.75 x 2)
-- [Banner](#) - ???
 - [Stickers](https://d1t0r6da15kvix.cloudfront.net/m/stickers/size/cart/1607151537362830593?1607201407370839053) - x4500 ($1125.00)
 - [Team Shirts](http://www.customink.com/designs/sfn2016v3/nxa0-00an-n861/hotlink?pc=HL-142344&utm_campaign=hotlink_201601&utm_source=hotlink&utm_medium=email&utm_content=viewbutton&cm_mmc=hotlink-_-5-_-Body_txt-_-viewbutton) - x30 ($448.80)
 
 #### Hack Space
 - [Powered bar table](http://sc.theexpogroup.com/osc/NEUROSCIENCE2016/Furniture_and_Accessories.pdf) - G30BWP, 72L 26D 42H ($666.04)
 - [Stools](http://sc.theexpogroup.com/osc/NEUROSCIENCE2016/Furniture_and_Accessories.pdf) - APS12, 21L 21D 33H ($190 x 6)
+- [Projector](https://www.amazon.com/dp/B005Q2EGG6/?tag=thewire06-20&linkCode=xm2&ascsubtag=WC17104) - $350
+- [Projector Screen](#) --?
 - [Monitors](#) - ???
 
 #### Lounge Space

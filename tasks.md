@@ -1,8 +1,10 @@
 |     Date    |        What          |     Who    |                 Notes                |
 |-------------|----------------------|------------|--------------------------------------|
 |             |                      |            |                                      |
-| Nov 10-12   | Setup in SD          | ab, gk     |      |
-| Oct 10 | Find + Order Projector Screen | ab |       |
 | Sept 10 | Order Projector | gk |  |
-| Oct 10 | Design/get banners | gk | http://www.exhibitors-handbook.com/#16 |
 | Sept 10 | Order all furniture | gk |
+| Oct 10 | Find + order projector screen | ab |       |
+| Oct 10 | Completed design/order of banners | gk | http://www.exhibitors-handbook.com/#16 |
+| Oct 17 | Complete slideshow demos | gk, ab | For on the two main TVs |
+| Nov 1 | New website is complete | jv | Bijan to take on, if he fails we take over |
+| Nov 10-12   | Setup in SD          | ab, gk     |      |

@@ -28,7 +28,7 @@
 - [Team Shirts](http://www.customink.com/designs/sfn2016v3/nxa0-00an-n861/hotlink?pc=HL-142344&utm_campaign=hotlink_201601&utm_source=hotlink&utm_medium=email&utm_content=viewbutton&cm_mmc=hotlink-_-5-_-Body_txt-_-viewbutton) - x30 ($448.80)
 
 #### Hack Space
-- [Powered bar table](http://sc.theexpogroup.com/osc/NEUROSCIENCE2016/Furniture_and_Accessories.pdf) - G30BWP, 72L 26D 42H ($666.04)
+- [Powered bar table](http://sc.theexpogroup.com/osc/NEUROSCIENCE2016/Furniture_and_Accessories.pdf) - G30BWP, 72L 26D 42H ($666.04 x 2)
 - [Stools](http://sc.theexpogroup.com/osc/NEUROSCIENCE2016/Furniture_and_Accessories.pdf) - APS12, 21L 21D 33H ($190 x 6)
 - [Projector](https://www.amazon.com/dp/B005Q2EGG6/?tag=thewire06-20&linkCode=xm2&ascsubtag=WC17104) - $350
 - [Projector Screen](#) --?

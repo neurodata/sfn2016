@@ -32,7 +32,6 @@
 - [Stools](http://sc.theexpogroup.com/osc/NEUROSCIENCE2016/Furniture_and_Accessories.pdf) - APS12, 21L 21D 33H ($190 x 6)
 - [Projector](https://www.amazon.com/dp/B005Q2EGG6/?tag=thewire06-20&linkCode=xm2&ascsubtag=WC17104) - $350
 - [Projector Screen](#) --?
-- [Monitors](#) - ???
 
 #### Lounge Space
 - [Couch](http://sc.theexpogroup.com/osc/NEUROSCIENCE2016/Custom_Furniture.pdf) - HS008, 72L 48D 28H ($1407.55)
@@ -42,13 +41,14 @@
 #### "Selling" Space
 - [Chairs](http://sc.theexpogroup.com/osc/NEUROSCIENCE2016/Custom_Furniture.pdf) - NPLCHP, 36L 30D 28H ($537.74 x 2)
 - [Coffee Table](http://sc.theexpogroup.com/osc/NEUROSCIENCE2016/Custom_Furniture.pdf) - C1E, 36D 17H ($224.53)
-- [TV](http://sc.theexpogroup.com/osc/NEUROSCIENCE2016/Audio_Visual.pdf) - ???
+- [TV](http://sc.theexpogroup.com/osc/NEUROSCIENCE2016/Audio_Visual.pdf) - 55" monitor 
+- [Powered bar table](http://sc.theexpogroup.com/osc/NEUROSCIENCE2016/Furniture_and_Accessories.pdf) - G30BWP, 72L 26D 42H ($666.04 x 1)
 
 ### Booth Content
 
-##### Video Wall
-- do we have enough content? what do we want to display?
-- how do we drive it? could we partition it sometimes so people hacking could demo, or so we could live display what people hacking are working on?
+#### Rotating power points:
+- 3-4 slides on each of EM, Clarity
+- 3-4 slides on each of AT and MRI
 
 ##### Cloud in a Box
 - our big appeal to neuroscientists is the following: we build tools that make processing and storing your data in the cloud easy. The NUC plan worked ok last time, but if we're going to do more hacking we should step up our locally available resources.

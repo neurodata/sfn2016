@@ -18,3 +18,6 @@
 - we should make sure to give more credit to those who help us finance and support the booth.
 - we should organize and throw an official party.
 - we should get ugrads down to DC to staff the booth.
+- possibly get a bigger booth and/or partner with some of our friends to be co-located
+- don't need wifi or big TVs
+- do want "massage stuff" and possibly plush carpet
